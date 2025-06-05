@@ -31,6 +31,3 @@ This web app demonstrates a normalized relational database structure using a fic
 - `book_genres` (book_id, genre_id)
 
 The schema is designed to demonstrate one-to-many and many-to-many relationships, with join conditions and aggregation via `GROUP_CONCAT()`.
-
-## 📁 Project Structure
-
